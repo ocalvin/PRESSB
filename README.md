@@ -5,4 +5,4 @@ A correction was published here on 2022-01-24, due to an issue with the behavior
 
 UPDATE
 ------
-The code that enables punishment in Klapes & McDowell (2023) has been added.
+The code that enables punishment in Klapes & McDowell (2023) has been added as FastMatching_Punishment_Spring2019.zip.
